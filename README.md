@@ -11,7 +11,7 @@ Ce projet est léger, rapide à lancer et parfait pour apprendre ou montrer ses 
 
 ## 💬 À propos du projet
 
-J’ai créé **Retro Snake** avant tout pour pratiquer mes bases du **JavaScript pur**, sans frameworks ni bibliothèques.  
+J’ai créé **Retro Snake** avant tout pour pratiquer les bases du **JavaScript pur**, sans frameworks ni bibliothèques.  
 C’était aussi un moyen de travailler sur :
 - La gestion du canvas et des animations  
 - Le stockage local avec `localStorage`  
