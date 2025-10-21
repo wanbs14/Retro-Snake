@@ -2,7 +2,7 @@
 
 # 🐍 Retro Snake
 
-**Retro Snake** est une petite réinterprétation du jeu du serpent, codée entièrement en **HTML**, **CSS** et **JavaScript**.  
+**Retro Snake** est une petite réinterprétation du jeux Snake, codée entièrement en **HTML**, **CSS** et **JavaScript**.  
 L’objectif était simple : recréer ce classique intemporel avec une touche moderne, une interface propre et un style rétro inspiré des écrans d’arcade verts.  
 
 Ce projet est léger, rapide à lancer et parfait pour apprendre ou montrer ses bases en JavaScript.
